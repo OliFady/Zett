@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "242fdd4788df6e29",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a8c5728d5d33275",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9acb45be0a0e29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-06-26 - Chacon-progit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-26 - Chacon-progit"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d73e7b01f69f7e9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "09c2bf80e4a41809",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "690caf6c1b91e790",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6975d4983e8e3e68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "57afb8e358d6fa72",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95b4d8d9148ad048",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d72432deb7718d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a87257f4874821b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "766621ffd5ab2ad7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ae7035e960274508",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "15f45784de010997",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1c8355c63e92cca1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
+    }
+  },
+  "active": "d9acb45be0a0e29b",
+  "lastOpenFiles": [
+    "Collins-Good_to_Great.md",
+    "2025-06-23 - Tokenization.md",
+    "2025-06-26 - Matt Haig - Notes on a Nervous Planet.md",
+    "2025-06-26 - Deep Learning - Goodfellow, Bengio.md",
+    "2025-06-26 - Source - Books.md",
+    "Templates/Atomic Note.md",
+    "Templates/Zettel Note.md",
+    "2025-06-26 - Get Out Of My Head by Meredith Arthur.md",
+    "2025-06-26 - Fyodor Dostoevsky - White Nights.md",
+    "Coelho-Manual-of-Warrior-of-Light-Paulo-Coelho.md",
+    "Coelho-The_Archer_-_Paulo_Coelho.md",
+    "Duggan-Work_Backwards_-_Tim_Duggan.md",
+    "Ferriss-Tools_of_Titans_-_Tim_Ferriss.md",
+    "Frankl-Man_s_Search_for_Meaning_by_Viktor_E_Frankl.md",
+    "Haig-Reasons_to_Stay_Alive_-_Matt_Haig.md",
+    "Han-The-Burnout-Society.md",
+    "Kaufman-The_Personal_MBA_Josh_Kaufman_Kaufman_Josh.md",
+    "Marshman-Workbook_for_The_Body_Keeps_The_Score.md",
+    "Murakami-Haruki_Murakami_-_Kafka_on_the_Shore.md",
+    "Orwell-george-orwell_animal-farm.md",
+    "Orwell-George-Orwell_Nineteen-Eighty-Four.md",
+    "Petrov-dokumen.pub_database-internals-a-deep-dive-into-how-distributed-data-systems-work-1492040347-9781492040347.md",
+    "Ray_Bradbury_Fahrenheit_451.md",
+    "Sinek-Leaders_Eat_Last_Why_Some_Teams_Pull_Together_and_Others_Don_226_128_153_t_by_Simon_Sinek.md",
+    "Sun Tzu - The Art Of War.md",
+    "Voss-Chris_Voss_-_Never_Split_the_Difference_Negotiating_As_If_Your_Life_Depended_On_It-HarperBusiness_2016.md",
+    "2025-06-23 - How LLMs learn.md~",
+    "notes/dailies",
+    "notes",
+    "Excalidraw",
+    "Templates"
+  ]
+}

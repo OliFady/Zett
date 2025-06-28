@@ -1,0 +1,10 @@
+{
+  "showInlineTitle": true,
+  "showUnsupportedFiles": true,
+  "vimMode": true,
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "Templates/"
+  ],
+  "alwaysUpdateLinks": true
+}
