@@ -1,9 +1,12 @@
 ---
 kindle-sync:
-  bookId: '23411'
+  bookId: "23411"
   title: Reasons_to_Stay_Alive_-_Matt_Haig
   author: Matt Haig
   highlightsCount: 16
+tags:
+  - Books
+  - Self-Discovery
 ---
 # Reasons_to_Stay_Alive_-_Matt_Haig
 ## Metadata

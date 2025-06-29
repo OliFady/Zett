@@ -57,55 +57,7 @@
       "setFileExistsBehavior": false
     }
   ],
-  "macros": [
-    {
-      "name": "Note Title",
-      "id": "708a4f3f-3928-4afb-9d27-c80ac0a35794",
-      "commands": [
-        {
-          "name": "Untitled Capture Choice",
-          "type": "NestedChoice",
-          "id": "4bbd9b4a-2bf5-4031-b39d-bba5e35e4dc7",
-          "choice": {
-            "id": "eaa141ab-b609-4359-bf64-3c46d954a4c7",
-            "name": "Untitled Capture Choice",
-            "type": "Capture",
-            "command": false,
-            "appendLink": false,
-            "captureTo": "{{name}}",
-            "captureToActiveFile": false,
-            "createFileIfItDoesntExist": {
-              "enabled": false,
-              "createWithTemplate": false,
-              "template": ""
-            },
-            "format": {
-              "enabled": false,
-              "format": ""
-            },
-            "insertAfter": {
-              "enabled": false,
-              "after": "",
-              "insertAtEnd": false,
-              "considerSubsections": false,
-              "createIfNotFound": false,
-              "createIfNotFoundLocation": "top"
-            },
-            "prepend": false,
-            "task": false,
-            "openFileInNewTab": {
-              "enabled": false,
-              "direction": "vertical",
-              "focus": true
-            },
-            "openFile": false,
-            "openFileInMode": "default"
-          }
-        }
-      ],
-      "runOnStartup": true
-    }
-  ],
+  "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "Templates",

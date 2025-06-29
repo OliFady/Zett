@@ -32,7 +32,7 @@ Books I've read. Novels, Self-Discovery and Tech.
 - [[Duggan-Work_Backwards_-_Tim_Duggan]]
 - [[Ferriss-Tools_of_Titans_-_Tim_Ferriss]]
 - [[Frankl-Man_s_Search_for_Meaning_by_Viktor_E_Frankl]]
-- [[Haig-Reasons_to_Stay_Alive_-_Matt_Haig]]
+- [[2025-06-28 - Matt Haig Reasons to Stay Alive]]
 - [[Han-The-Burnout-Society]]
 - [[Kaufman-The_Personal_MBA_Josh_Kaufman_Kaufman_Josh]]
 - [[Marshman-Workbook_for_The_Body_Keeps_The_Score]]
@@ -44,10 +44,9 @@ Books I've read. Novels, Self-Discovery and Tech.
 - [[Sinek-Leaders_Eat_Last_Why_Some_Teams_Pull_Together_and_Others_Don_226_128_153_t_by_Simon_Sinek]]
 - [[Sun Tzu - The Art Of War]]
 - [[Zinsser - on-writing-well]]
-- [[Yanagihara-A_Little_Life]]
+- [[2025-06-28 - Hanya Yanagihara - A Little Life]]
 - [[work-rules-insights-from-inside-google-that-will-transform-how-you-live-and-lead]]
 - [[Voss-Chris_Voss_-_Never_Split_the_Difference_Negotiating_As_If_Your_Life_Depended_On_It-HarperBusiness_2016]]
-- [[]]
 
 ## 🚩 Open Threads  
 
