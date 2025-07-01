@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-26 - Source - Books.md",
+                "file": "2025-06-29 - Marshman The Body Keeps The Score.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-26 - Source - Books"
+              "title": "2025-06-29 - Marshman The Body Keeps The Score"
             }
           }
         ]
@@ -161,9 +161,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "9152f1dca03ac376",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -181,37 +191,39 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "d9acb45be0a0e29b",
   "lastOpenFiles": [
-    "2025-06-28 - Matt Haig Reasons to Stay Alive.md",
-    "2025-06-26 - Source - Books.md",
-    "2025-06-28 - Hanya Yanagihara - A Little Life.md",
-    "2025-06-28 - Source - Copywriting.md",
-    "2025-06-28 - Specific Conditions.md",
-    "2025-06-26 - Chacon-progit.md",
-    "Collins-Good_to_Great.md",
-    "2025-06-23 - Tokenization.md",
-    "2025-06-26 - Matt Haig - Notes on a Nervous Planet.md",
-    "2025-06-26 - Deep Learning - Goodfellow, Bengio.md",
-    "Templates/Atomic Note.md",
-    "Templates/Zettel Note.md",
-    "2025-06-26 - Get Out Of My Head by Meredith Arthur.md",
-    "2025-06-26 - Fyodor Dostoevsky - White Nights.md",
-    "Coelho-Manual-of-Warrior-of-Light-Paulo-Coelho.md",
-    "Coelho-The_Archer_-_Paulo_Coelho.md",
-    "Duggan-Work_Backwards_-_Tim_Duggan.md",
-    "Ferriss-Tools_of_Titans_-_Tim_Ferriss.md",
-    "Frankl-Man_s_Search_for_Meaning_by_Viktor_E_Frankl.md",
-    "Han-The-Burnout-Society.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
     "Kaufman-The_Personal_MBA_Josh_Kaufman_Kaufman_Josh.md",
-    "Marshman-Workbook_for_The_Body_Keeps_The_Score.md",
-    "Murakami-Haruki_Murakami_-_Kafka_on_the_Shore.md",
-    "Orwell-george-orwell_animal-farm.md",
-    "Orwell-George-Orwell_Nineteen-Eighty-Four.md",
-    "Petrov-dokumen.pub_database-internals-a-deep-dive-into-how-distributed-data-systems-work-1492040347-9781492040347.md",
+    "Coelho-Manual-of-Warrior-of-Light-Paulo-Coelho.md",
+    "Collins-Good_to_Great.md",
+    "2025-06-29 - George Orwell animal farm.md",
+    "2025-06-29 - George Orwell Nineteen Eighty Four.md",
+    "2025-06-29 - Ray Bradbury Fahrenheit 451.md",
+    "2025-06-29 - Han - The Burnout Society.md",
+    "2025-06-29 - Petrov database internals.md",
+    "2025-06-29 - Haruki Murakami Kafka on the Shore.md",
+    "Duggan-Work_Backwards_-_Tim_Duggan.md",
+    "2025-06-29 - Paulo Coelho The Archer.md",
+    "2025-06-26 - Source - Books.md",
+    "2025-06-28 - Matt Haig Reasons to Stay Alive.md",
     "2025-06-23 - How LLMs learn.md~",
     "notes/dailies",
     "notes",

@@ -3,5 +3,7 @@
   "obsidian-minimal-settings",
   "quickadd",
   "obsidian-excalidraw-plugin",
-  "obsidian-kindle-plugin"
+  "obsidian-kindle-plugin",
+  "obsidian-languagetool-plugin",
+  "copilot"
 ]
