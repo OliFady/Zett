@@ -4,5 +4,6 @@
   "showViewHeader": true,
   "showRibbon": true,
   "cssTheme": "Minimal",
-  "accentColor": "#7d75f5"
+  "accentColor": "#7d75f5",
+  "theme": "obsidian"
 }
