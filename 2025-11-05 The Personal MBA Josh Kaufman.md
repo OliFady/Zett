@@ -1,11 +1,14 @@
 ---
 kindle-sync:
-  bookId: '25166'
+  bookId: "25166"
   title: The_Personal_MBA_Josh_Kaufman_Kaufman_Josh
   author: Josh Kaufman
   highlightsCount: 125
+tags:
+  - Books
+  - Business
 ---
-# The_Personal_MBA_Josh_Kaufman_Kaufman_Josh
+# 2025-11-05 The Personal MBA Josh Kaufman
 ## Metadata
 * Author: Josh Kaufman
 

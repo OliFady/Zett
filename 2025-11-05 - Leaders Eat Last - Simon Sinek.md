@@ -1,12 +1,14 @@
 ---
 kindle-sync:
-  bookId: '45802'
-  title: >-
-    Leaders_Eat_Last_Why_Some_Teams_Pull_Together_and_Others_Don_226_128_153_t_by_Simon_Sinek
-  author: 'Sinek, Simon'
+  bookId: "45802"
+  title: Leaders_Eat_Last_Why_Some_Teams_Pull_Together_and_Others_Don_226_128_153_t_by_Simon_Sinek
+  author: Sinek, Simon
   highlightsCount: 20
+tags:
+  - Business
+  - Books
 ---
-# Leaders_Eat_Last_Why_Some_Teams_Pull_Together_and_Others_Don_226_128_153_t_by_Simon_Sinek
+# 2025-11-05 - Leaders Eat Last - Simon Sinek
 ## Metadata
 * Author: Sinek, Simon
 

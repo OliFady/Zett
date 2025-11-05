@@ -1,11 +1,14 @@
 ---
 kindle-sync:
-  bookId: '62708'
+  bookId: "62708"
   title: Tools_of_Titans_-_Tim_Ferriss
   author: Timothy Ferriss
   highlightsCount: 44
+tags:
+  - Books
+  - Self-Discovery
 ---
-# Tools_of_Titans_-_Tim_Ferriss
+# 2025-11-05 Tools of Titans - Tim_Ferriss
 ## Metadata
 * Author: Timothy Ferriss
 

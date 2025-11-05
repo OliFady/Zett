@@ -1,9 +1,13 @@
 ---
 kindle-sync:
-  bookId: '6397'
+  bookId: "6397"
   title: Manual-of-Warrior-of-Light-Paulo-Coelho
   author: Paulo Coelho
   highlightsCount: 86
+tags:
+  - Books
+  - Philosophy
+  - Self-Discovery
 ---
 # Manual-of-Warrior-of-Light-Paulo-Coelho
 ## Metadata

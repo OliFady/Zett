@@ -1,11 +1,14 @@
 ---
 kindle-sync:
-  bookId: '50353'
+  bookId: "50353"
   title: Man_s_Search_for_Meaning_by_Viktor_E_Frankl
   author: Viktor E. Frankl
   highlightsCount: 13
+tags:
+  - Books
+  - Philosophy
 ---
-# Man_s_Search_for_Meaning_by_Viktor_E_Frankl
+# 2025-11-05 Man's Search for Meaning - Viktor_E_Frankl
 ## Metadata
 * Author: Viktor E. Frankl
 

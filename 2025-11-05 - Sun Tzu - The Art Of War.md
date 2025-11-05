@@ -1,9 +1,12 @@
 ---
 kindle-sync:
-  bookId: '16359'
+  bookId: "16359"
   title: pg66706-images-3
   author: active 6th century B.C. Sunzi
   highlightsCount: 21
+tags:
+  - Books
+  - Philosophy
 ---
 # Sun Tzu - The Art Of War
 ## Metadata

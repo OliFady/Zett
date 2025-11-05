@@ -1,12 +1,14 @@
 ---
 kindle-sync:
-  bookId: '62436'
-  title: >-
-    Chris_Voss_-_Never_Split_the_Difference_Negotiating_As_If_Your_Life_Depended_On_It-HarperBusiness_2016
+  bookId: "62436"
+  title: Chris_Voss_-_Never_Split_the_Difference_Negotiating_As_If_Your_Life_Depended_On_It-HarperBusiness_2016
   author: Chris Voss
   highlightsCount: 22
+tags:
+  - Business
+  - Books
 ---
-# Chris_Voss_-_Never_Split_the_Difference_Negotiating_As_If_Your_Life_Depended_On_It-HarperBusiness_2016
+# 2025-11-05 Never Split the Difference - Chris Voss
 ## Metadata
 * Author: Chris Voss
 

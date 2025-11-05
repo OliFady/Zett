@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-10-10 Collins Good to Great.md",
+                "file": "2025-11-05 - Sun Tzu - The Art Of War.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-10 Collins Good to Great"
+              "title": "2025-11-05 - Sun Tzu - The Art Of War"
             }
           }
         ]
@@ -171,14 +171,23 @@
               "icon": "lucide-ghost",
               "title": "copilot-chat-view"
             }
+          },
+          {
+            "id": "55136ca4ace29210",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,34 +204,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9acb45be0a0e29b",
+  "active": "690caf6c1b91e790",
   "lastOpenFiles": [
-    "2025-06-26 - Get Out Of My Head by Meredith Arthur.md",
+    "2025-11-05 - Leaders Eat Last - Simon Sinek.md",
+    "2025-11-05 Never Split the Difference - Chris Voss.md",
+    "work-rules-insights-from-inside-google-that-will-transform-how-you-live-and-lead.md",
+    "2025-11-05 - Sun Tzu - The Art Of War.md",
     "2025-06-26 - Matt Haig - Notes on a Nervous Planet.md",
+    "2025-11-05 Tools of Titans - Tim_Ferriss.md",
+    "2025-11-05 Manual of Warrior of Light Paulo Coelho.md",
+    "2025-11-05 The Personal MBA Josh Kaufman.md",
+    "2025-11-05 Man's Search for Meaning - Viktor_E_Frankl.md",
+    "Duggan-Work_Backwards_-_Tim_Duggan.md",
+    "2025-06-29 - George Orwell Nineteen Eighty Four.md",
+    "Excalidraw/Tokenization.excalidraw.md",
+    "Templates/Atomic Note.md",
+    "Templates/Zettel Note.md",
+    "Excalidraw/How LLMs Learn.excalidraw.md",
+    "2025-06-23 - LLMs Scaling Laws.md",
+    "2025-06-23 - Tokenization.md",
+    "2025-06-26 - Deep Learning - Goodfellow, Bengio.md",
+    "().md",
+    "2025-10-10 Collins Good to Great.md",
+    "Zinsser - on-writing-well.md",
+    "2025-06-26 - Get Out Of My Head by Meredith Arthur.md",
     "2025-06-26 - McConnell- Code Complete.2nd.Edition.md",
     "2025-06-26 - Paulo Coelho - The Alchemist.md",
     "2025-06-26 - Source - Books.md",
     "2025-06-28 - Hanya Yanagihara - A Little Life.md",
-    "2025-06-29 - George Orwell Nineteen Eighty Four.md",
-    "2025-06-29 - Han - The Burnout Society.md",
-    "2025-06-29 - Ray Bradbury Fahrenheit 451.md",
-    "2025-10-10 Collins Good to Great.md",
-    "2025-06-26 - Chacon-progit.md",
-    "().md",
-    "2025-06-26 - Deep Learning - Goodfellow, Bengio.md",
-    "2025-06-29 - Marshman The Body Keeps The Score.md",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts",
     "2025-06-23 - How LLMs learn.md~",
     "notes/dailies",
