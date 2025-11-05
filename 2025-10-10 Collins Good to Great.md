@@ -1,9 +1,12 @@
 ---
 kindle-sync:
-  bookId: '43874'
+  bookId: "43874"
   title: Good_to_Great
   author: Jim Collins
   highlightsCount: 27
+tags:
+  - Books
+  - Business
 ---
 # Good_to_Great
 ## Metadata
@@ -44,9 +47,6 @@ Good-to-great companies think differently about the role of technology. They nev
 
 ---
 You can accomplish anything in life, provided that you do not mind who gets the credit. —HARRY S. TRUMAN1 — location: [305]() ^ref-56773
-
----
-as a classic example of what we came to call a Level 5 leader—an individual who blends extreme personal humility with intense professional will. — location: [349]() ^ref-39394
 
 ---
 a Level 5 leader—an individual who blends extreme personal humility with intense professional will. We found leaders of this type at the helm of every good-to-great company during the transition era. Like Smith, they were self-effacing individuals who displayed the fierce resolve to do whatever needed to be done to make the company great. Level 5 leaders channel their ego needs away from themselves and into the larger goal of building a great company. It’s not that Level 5 leaders have no ego or self-interest. Indeed, they are incredibly ambitious—but their ambition is first and foremost for the institution, not themselves. — location: [350]() ^ref-19532

@@ -28,7 +28,7 @@ Books I've read. Novels, Self-Discovery and Tech.
 - [[2025-06-26 - Chacon-progit]]
 - [[Coelho-Manual-of-Warrior-of-Light-Paulo-Coelho]]
 - [[2025-06-29 - Paulo Coelho The Archer]]
-- [[Collins-Good_to_Great]]
+- [[2025-10-10 Collins Good to Great]]
 - [[Duggan-Work_Backwards_-_Tim_Duggan]]
 - [[Ferriss-Tools_of_Titans_-_Tim_Ferriss]]
 - [[Frankl-Man_s_Search_for_Meaning_by_Viktor_E_Frankl]]
