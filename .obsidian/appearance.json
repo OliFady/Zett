@@ -1,7 +1,7 @@
 {
   "baseFontSize": 18,
   "nativeMenus": true,
-  "showViewHeader": true,
+  "showViewHeader": false,
   "showRibbon": true,
   "cssTheme": "Minimal",
   "accentColor": "#7d75f5",
